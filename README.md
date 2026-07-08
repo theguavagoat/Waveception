@@ -1,11 +1,11 @@
-****Waveception****
+##****Waveception****
 
-What it is:
+##What it is:
 	        
      Waveception is enterprise middleware that synchronizes access control events with one or more video management systems using REST APIs. 
      It automatically creates searchable video bookmarks that allow operators to quickly locate archived footage associated with access control events.
 
-Features:
+##Features:
   
     REST API integration
 	  SQLite event persistence
@@ -19,7 +19,7 @@ Features:
 	  Configurable bookmark pre/post roll
 
 
-Architecture:
+##Architecture:
 		
     Inception
 
@@ -44,7 +44,7 @@ Architecture:
 
 	Hanwha WAVE   ISS SecurOS
 
-Why I Built It:
+##Why I Built It:
 	
 	A very common issue for operators of Access Control Systems (ACS) and Video Management Systems (VMS) is correlating access control events with archived video.
 

@@ -1,0 +1,30 @@
+{
+  "inception": {
+    "base_url": "",
+    "api_token": "",
+    "username": "",
+    "password": ""
+  },
+  "wave": {
+    "base_url": "",
+    "username": "",
+    "password": "",
+    "verify_tls": false,
+    "bookmark_pre_roll_ms": 5000,
+    "bookmark_post_roll_ms": 5000
+  },
+  "securos": {
+    "base_url": "",
+    "username": "",
+    "password": "",
+    "verify_tls": false,
+    "event_gate_url": "",
+    "pre_roll_ms": 5000,
+    "post_roll_ms": 5000,
+    "media_client_id": ""
+  },
+  "database_path": "C:\\ProgramData\\Waveception\\waveception.sqlite",
+  "door_map_path": "C:\\ProgramData\\Waveception\\door_camera_map.json",
+  "securos_map_path": "C:\\ProgramData\\Waveception\\securos_camera_map.json",
+  "log_level": "INFO"
+}

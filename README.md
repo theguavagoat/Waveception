@@ -8,8 +8,8 @@ Waveception is enterprise middleware that synchronizes access control events wit
 	 locate archived footage associated with access control events.
 
 ## Features:
-  
-- REST API integratio
+
+- REST API integration
 - SQLite event persistence
 - Automatic retry queue
 - Windows Service support

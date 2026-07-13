@@ -2,7 +2,7 @@
 
 ## What it is:
 	        
-Waveception is enterprise middleware that synchronizes access control events with 
+Waveception is middleware that synchronizes access control events with 
 	 one or more video management systems using REST APIs. 
      It automatically creates searchable video bookmarks that allow operators to quickly 
 	 locate archived footage associated with access control events.
